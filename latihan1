@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>input data diri</title>
+    </head>
+    <body>
+        <fieldset>
+            <legend>data diri</legend>
+            <p>
+                <label for="nama">NAMA</label>
+                <input type="text" name="nama">
+            </p>
+            <p>
+                <label for="usia">USIA</label>
+                <input type="number" name="usia">
+            </p>
+        </fieldset>
+    </body>
+</html>
